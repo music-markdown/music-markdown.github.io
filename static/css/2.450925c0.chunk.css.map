@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/travis/build/music-markdown/music-markdown/node_modules/markdown-it-music/renderers/renderer.css"],"names":[],"mappings":"AAAA,OACE,oBAAA,CAAA,YAAa,CAGf,OACE,eAAgB,CAGlB,OACE,qBAAsB","file":"2.450925c0.chunk.css","sourcesContent":[".voice {\n  display: flex;\n}\n\n.space {\n  white-space: pre;\n}\n\n.chart {\n  font-family: monospace;\n}\n"]}
